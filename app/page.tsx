@@ -4,7 +4,7 @@ import Link from 'next/link'
 import LogoutButton from '../components/LogoutButton'
 import SupabaseLogo from '../components/SupabaseLogo'
 import NextJsLogo from '../components/NextJsLogo'
-import Hero from "@/components/Hero";
+import Hero from "../components/Hero";
 
 export const dynamic = 'force-dynamic'
 
