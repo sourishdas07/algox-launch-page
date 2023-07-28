@@ -73,7 +73,7 @@ export default async function Index() {
 
           <div className="flex flex-col items-center mb-4 lg:mb-12">
 
-            <Hero />
+            {/*<Hero />*/}
 
             <p className="text-2xl lg:text-3xl !leading-tight mx-auto max-w-xl my-12">
               Change the future of our planet through the{' '}
